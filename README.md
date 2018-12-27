@@ -21,4 +21,4 @@ docker exec -ti zcashd zcash-cli <commands>
 
 ## compatibility
 
-[zcashz.sh](zcashd.sh) starts zcashd with `-txindex=1`.  If you supply a `.zcash` directory with a previously downloaded blockchain, it will need to have been downloaded with `-txindex=1` as well.
+[zcashd.sh](zcashd.sh) starts zcashd with `-txindex=1`.  If you supply a `.zcash` directory with a previously downloaded blockchain, it will need to have been downloaded with `-txindex=1` as well.
